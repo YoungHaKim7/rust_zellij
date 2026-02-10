@@ -51,4 +51,4 @@ Alt h or l
 # 옛날버젼 notice없는거 깔끔함
 
 - `zellij` Release v0.34.4
-
+  - https://github.com/zellij-org/zellij/releases/tag/v0.34.4
