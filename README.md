@@ -1,3 +1,23 @@
+# tmux mode굿(key default라 세팅 따로 필요없음)
+- 극한의 환경에서 쓸만함
+
+```bash
+# 새창 추가
+Ctrl+ b + c
+
+# vs 창추가 (right)
+Ctrl + b + %
+
+# sp 창추가 (down)
+Ctrl + b + "
+
+# 창 전환(Previous)
+Ctrl + b + p
+
+# 창 전환(Next)
+Ctrl + b + n 
+```
+
 # 많이 쓰는거
 
 ```bash
@@ -26,3 +46,9 @@ Alt h or l
 <c-s> e
 
 ```
+
+
+# 옛날버젼 notice없는거 깔끔함
+
+- `zellij` Release v0.34.4
+
